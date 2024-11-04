@@ -1,0 +1,18 @@
+{
+  "name": "com.luminarylabs.nexusengine.meta",
+  "version": "1.0.0",
+  "displayName": "Nexus Engine (META SDK)",
+  "description": "An Implemenation Of The Nexus Engine utilizing the Meta Core and Interaction SDK.",
+  "changelogUrl": "CHANGELOG.md",
+  "unity": "2021.3",
+  "dependencies": {
+    "com.luminarylabs.nexusengine": "",
+    "com.meta.xr.sdk.core": "",
+    "com.meta.xr.sdk.interaction.ovr": ""
+  },
+  "author": {
+    "name": "LuminaryLabs",
+    "email": "contact@luminarylabs.com",
+    "url": "https://luminarylabs.com"
+  }
+}
