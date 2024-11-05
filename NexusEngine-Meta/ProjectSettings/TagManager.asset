@@ -3,15 +3,7 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags:
-  - LeftController
-  - RightController
-  - LeftHand
-  - RightHand
-  - LeftHandInteractor
-  - RightHandInteractor
-  - PuzzlePieceFace
-  - FusionTestPlayer
+  tags: []
   layers:
   - Default
   - TransparentFX
@@ -19,11 +11,11 @@ TagManager:
   - 
   - Water
   - UI
-  - Hand
-  - Impactable
-  - Impactor
-  - Weapon
-  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
   - 
   - 
   - 
