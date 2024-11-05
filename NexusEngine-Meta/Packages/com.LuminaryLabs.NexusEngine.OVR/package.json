@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "displayName": "Nexus Engine - META",
   "description": "An implementation of the Nexus Engine for the Meta SDKs",
-  "changelogUrl": "CHANGELOG.md",
   "unity": "2021.3",
   "dependencies": {},
   "author": {
