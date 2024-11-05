@@ -1,6 +1,6 @@
 {
   "name": "com.luminarylabs.nexusengine.ovr",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "displayName": "Nexus Engine - META",
   "description": "An implementation of the Nexus Engine for the Meta SDKs",
   "unity": "2021.3",

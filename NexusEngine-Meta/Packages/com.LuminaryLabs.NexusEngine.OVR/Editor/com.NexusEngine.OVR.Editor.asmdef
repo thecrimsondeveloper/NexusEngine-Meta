@@ -2,7 +2,7 @@
     "name": "com.NexusEngine.OVR.Editor",
     "rootNamespace": "",
     "references": [
-        "GUID:3e00de1f97034644dbae0446ab1fbf9e"
+        "GUID:ff1b40d07b75058439740136cb01a454"
     ],
     "includePlatforms": [
         "Editor"
