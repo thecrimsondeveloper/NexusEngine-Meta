@@ -1,5 +1,21 @@
 {
   "dependencies": {
+    "com.cysharp.unitask": {
+      "version": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "f9fd769be7c634610f2a61aa914a1a55f34740e1"
+    },
+    "com.luminarylabs.nexusengine": {
+      "version": "https://github.com/thecrimsondeveloper/NexusEngine.git?path=NexusEngine/Packages/com.LuminaryLabs.NexusEngine#development",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.cysharp.unitask": ""
+      },
+      "hash": "7361ac00b6769fedbf33918eff1cffa88852c108"
+    },
     "com.luminarylabs.nexusengine.ovr": {
       "version": "file:com.LuminaryLabs.NexusEngine.OVR",
       "depth": 0,
