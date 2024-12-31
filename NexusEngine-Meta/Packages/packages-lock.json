@@ -14,7 +14,7 @@
       "dependencies": {
         "com.cysharp.unitask": ""
       },
-      "hash": "7361ac00b6769fedbf33918eff1cffa88852c108"
+      "hash": "71b030c435870af4d226ee5e93bbad6f9b99869f"
     },
     "com.luminarylabs.nexusengine.ovr": {
       "version": "file:com.LuminaryLabs.NexusEngine.OVR",
@@ -287,6 +287,15 @@
         "com.unity.modules.xr": "1.0.0",
         "com.unity.modules.subsystems": "1.0.0",
         "com.unity.xr.legacyinputhelpers": "2.1.7"
+      },
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.xr.oculus": {
+      "version": "4.2.0",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.xr.management": "4.4.0"
       },
       "url": "https://packages.unity.com"
     },
